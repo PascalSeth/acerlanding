@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/acerlanding/static/css/main.eda6fc26.css",
+    "main.js": "/acerlanding/static/js/main.b878b790.js",
+    "static/media/overview.jpeg": "/acerlanding/static/media/overview.9ef7e8374330fe3092ed.jpeg",
+    "static/media/topmost.png": "/acerlanding/static/media/topmost.3a6d409b8b399df0e7f7.png",
+    "static/media/midsection2.jpeg": "/acerlanding/static/media/midsection2.4a17ff7546560cdccc1a.jpeg",
+    "static/media/midsection3.jpeg": "/acerlanding/static/media/midsection3.642b113434d62e20c4e3.jpeg",
+    "static/media/midsection1.jpeg": "/acerlanding/static/media/midsection1.23c98e97c3aba74cec3e.jpeg",
+    "static/media/setupDesktop.jpeg": "/acerlanding/static/media/setupDesktop.1f17ef0e34395f2e8093.jpeg",
+    "static/media/brand_image.png": "/acerlanding/static/media/brand_image.060bb42bf0029357ed5e.png",
+    "static/media/introBackground.jpeg": "/acerlanding/static/media/introBackground.0fe8243fefcab31a2da7.jpeg",
+    "index.html": "/acerlanding/index.html",
+    "main.eda6fc26.css.map": "/acerlanding/static/css/main.eda6fc26.css.map",
+    "main.b878b790.js.map": "/acerlanding/static/js/main.b878b790.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda6fc26.css",
+    "static/js/main.b878b790.js"
+  ]
+}
